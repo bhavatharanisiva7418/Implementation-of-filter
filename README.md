@@ -102,30 +102,24 @@ plt.show()
 
 ## OUTPUT:
 ### 1. Smoothing Filters
-</br>
 
 i) Using Averaging Filter
 ![image](https://github.com/user-attachments/assets/b773894f-ad67-4516-b84e-3aa52b6a8fef)
 
-
 ii)Using Weighted Averaging Filter
 ![image](https://github.com/user-attachments/assets/76924ed7-19eb-4c71-8dff-42a10c590d38)
 
-
 iii)Using Gaussian Filter
 ![image](https://github.com/user-attachments/assets/b41f3191-89c3-48fb-8abe-b1b05760252c)
-
 
 iv) Using Median Filter
 ![image](https://github.com/user-attachments/assets/975b6804-c9c3-4644-a852-29cbf67b41f4)
 
 
 ### 2. Sharpening Filters
-</br>
 
 i) Using Laplacian Kernal
 ![image](https://github.com/user-attachments/assets/804816bc-ea3c-4fc0-812c-4237b707ba73)
-
 
 ii) Using Laplacian Operator
 ![image](https://github.com/user-attachments/assets/f41adb43-0931-413e-9a84-bddc9f12ef1e)
